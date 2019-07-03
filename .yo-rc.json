@@ -1,0 +1,44 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ApplicationPhoto",
+    "packageName": "java.fr.sma.photo",
+    "packageFolder": "java/fr/sma/photo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "NmI0NmEyNWFiODc1NmRlOTQ1MmE1YzExM2YwNmNjY2MwNDM1NjU0Mjg0M2E2NWIwYmE5NTRjYzNmNTZiZTQ5NzI2MmQ1OTM1MDJjMDgxOTJmYzlkMmIyY2UzMTdlNzBmZDk3ZTYxNzU4NDIyMGRkZmM1ZThkMWMxNGZjYjg5ZjA=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "thomas78om",
+  "repository-name": "application-photo"
+}
